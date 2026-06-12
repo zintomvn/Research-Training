@@ -1,0 +1,20 @@
+{"time":"2026-06-12T14:37:25.4733631+07:00","level":"INFO","msg":"wandb-core"}
+{"time":"2026-06-12T14:37:25.4738713+07:00","level":"INFO","msg":"stream: starting","core version":"0.27.2"}
+{"time":"2026-06-12T14:37:25.9877319+07:00","level":"INFO","msg":"stream: created new stream","id":"17ho28ur"}
+{"time":"2026-06-12T14:37:25.9877319+07:00","level":"INFO","msg":"handler: started"}
+{"time":"2026-06-12T14:37:25.9892806+07:00","level":"INFO","msg":"stream: started"}
+{"time":"2026-06-12T14:37:25.9892806+07:00","level":"INFO","msg":"writer: started","stream_id":"17ho28ur"}
+{"time":"2026-06-12T14:37:25.9892806+07:00","level":"INFO","msg":"sender: started"}
+{"time":"2026-06-12T14:37:26.4605615+07:00","level":"ERROR","msg":"git repo not found","error":"repository does not exist"}
+{"time":"2026-06-12T14:37:26.6978072+07:00","level":"INFO","msg":"filestream: sending request","total_files":1}
+{"time":"2026-06-12T14:37:27.2228212+07:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-06-12T14:37:41.6992364+07:00","level":"INFO","msg":"filestream: sending request","total_files":2,"history_offset":0,"history_lines":10,"uploaded_len":2}
+{"time":"2026-06-12T14:37:42.756643+07:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-06-12T14:37:43.6936524+07:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2026-06-12T14:37:43.6941817+07:00","level":"INFO","msg":"filestream: sending request","total_files":0,"uploaded_len":5,"complete":true,"exit_code":0}
+{"time":"2026-06-12T14:37:44.2186842+07:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-06-12T14:37:44.2211151+07:00","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2026-06-12T14:37:44.229335+07:00","level":"INFO","msg":"stream: finishing up"}
+{"time":"2026-06-12T14:37:44.229335+07:00","level":"INFO","msg":"handler: closed"}
+{"time":"2026-06-12T14:37:44.229335+07:00","level":"INFO","msg":"sender: closed"}
+{"time":"2026-06-12T14:37:44.229335+07:00","level":"INFO","msg":"stream: all finished"}

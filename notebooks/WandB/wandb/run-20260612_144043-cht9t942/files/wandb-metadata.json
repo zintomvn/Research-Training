@@ -1,0 +1,40 @@
+{
+  "os": "Windows-11-10.0.26200-SP0",
+  "python": "CPython 3.14.5",
+  "startedAt": "2026-06-12T07:40:43.199390Z",
+  "program": "d:\\University\\Projects\\Individual projects\\Research-training\\notebooks\\WandB\\2_evaluation.ipynb",
+  "codePath": "d:\\University\\Projects\\Individual projects\\Research-training\\notebooks\\WandB\\2_evaluation.ipynb",
+  "codePathLocal": "2_evaluation.ipynb",
+  "git": {
+    "remote": "https://github.com/zintomvn/Research-training.git",
+    "commit": "161b25e39825842555eb1c1199aa34e9fddcf2b0"
+  },
+  "email": "zintom69@gmail.com",
+  "root": "d:\\University\\Projects\\Individual projects\\Research-training\\notebooks\\WandB",
+  "host": "MARIO",
+  "executable": "c:\\python314\\python.exe",
+  "cpu_count": 14,
+  "cpu_count_logical": 20,
+  "gpu": "NVIDIA GeForce RTX 4060 Laptop GPU",
+  "gpu_count": 1,
+  "disk": {
+    "/": {
+      "total": "85214621696",
+      "used": "74244161536"
+    }
+  },
+  "memory": {
+    "total": "16961822720"
+  },
+  "gpu_nvidia": [
+    {
+      "name": "NVIDIA GeForce RTX 4060 Laptop GPU",
+      "memoryTotal": "8585740288",
+      "cudaCores": 3072,
+      "architecture": "Ada",
+      "uuid": "GPU-99935140-0e21-e324-aa44-a0bd2098ec42"
+    }
+  ],
+  "cudaVersion": "12.6",
+  "writerId": "zf5rc9154dj581ydwgfhbfxfmp3y2fu0"
+}

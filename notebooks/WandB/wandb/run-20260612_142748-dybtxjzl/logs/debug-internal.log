@@ -1,0 +1,22 @@
+{"time":"2026-06-12T14:27:48.6989735+07:00","level":"INFO","msg":"wandb-core"}
+{"time":"2026-06-12T14:27:48.6989735+07:00","level":"INFO","msg":"stream: starting","core version":"0.27.2"}
+{"time":"2026-06-12T14:27:49.2060771+07:00","level":"INFO","msg":"stream: created new stream","id":"dybtxjzl"}
+{"time":"2026-06-12T14:27:49.2060771+07:00","level":"INFO","msg":"handler: started"}
+{"time":"2026-06-12T14:27:49.2081408+07:00","level":"INFO","msg":"stream: started"}
+{"time":"2026-06-12T14:27:49.2081408+07:00","level":"INFO","msg":"writer: started","stream_id":"dybtxjzl"}
+{"time":"2026-06-12T14:27:49.2081408+07:00","level":"INFO","msg":"sender: started"}
+{"time":"2026-06-12T14:27:49.7376438+07:00","level":"ERROR","msg":"git repo not found","error":"repository does not exist"}
+{"time":"2026-06-12T14:27:49.9451547+07:00","level":"INFO","msg":"filestream: sending request","total_files":1}
+{"time":"2026-06-12T14:27:50.4441336+07:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-06-12T14:28:04.94566+07:00","level":"INFO","msg":"filestream: sending request","total_files":3,"history_offset":0,"history_lines":17,"events_offset":0,"events_lines":2,"uploaded_len":2}
+{"time":"2026-06-12T14:28:05.8814534+07:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-06-12T14:28:19.9458806+07:00","level":"INFO","msg":"filestream: sending request","total_files":3,"history_offset":17,"history_lines":14,"events_offset":2,"events_lines":2}
+{"time":"2026-06-12T14:28:20.620884+07:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-06-12T14:28:25.6122725+07:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2026-06-12T14:28:25.6122725+07:00","level":"INFO","msg":"filestream: sending request","total_files":0,"uploaded_len":5,"complete":true,"exit_code":0}
+{"time":"2026-06-12T14:28:25.9445128+07:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-06-12T14:28:25.9468122+07:00","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2026-06-12T14:28:25.953464+07:00","level":"INFO","msg":"stream: finishing up"}
+{"time":"2026-06-12T14:28:25.953464+07:00","level":"INFO","msg":"handler: closed"}
+{"time":"2026-06-12T14:28:25.953464+07:00","level":"INFO","msg":"sender: closed"}
+{"time":"2026-06-12T14:28:25.953464+07:00","level":"INFO","msg":"stream: all finished"}

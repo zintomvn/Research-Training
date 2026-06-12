@@ -1,0 +1,6 @@
+2026-06-12 14:17:18,220 INFO    MainThread:24036 [wandb_init.py:setup_run_log_directory():717] Logging user logs to d:\University\Projects\Individual projects\Research-training\notebooks\WandB\wandb\run-20260612_141718-rqcehv7m\logs\debug.log
+2026-06-12 14:17:18,220 INFO    MainThread:24036 [wandb_init.py:setup_run_log_directory():718] Logging internal logs to d:\University\Projects\Individual projects\Research-training\notebooks\WandB\wandb\run-20260612_141718-rqcehv7m\logs\debug-internal.log
+2026-06-12 14:17:18,220 INFO    MainThread:24036 [wandb_init.py:init():844] calling init triggers
+2026-06-12 14:17:18,220 INFO    MainThread:24036 [wandb_init.py:init():849] wandb.init called with sweep_config: {}
+config: {'dataset': 'MNIST', 'epochs': 10, 'batch_size': 128, 'learning_rate': 0.001, 'optimizer': 'adam', 'weight_decay': 0.0, 'momentum': 0.9, 'dropout': 0.0, 'train_subset': 12000, 'test_subset': 2000, 'log_every_n_batches': 50, 'num_workers': 0, 'seed': 101, 'model_name': 'mlp_small', '_wandb': {'code_path': 'd:/University/Projects/Individual projects/Research-training/notebooks/WandB/2_evaluation.ipynb'}}
+2026-06-12 14:17:18,220 INFO    MainThread:24036 [wandb_init.py:init():892] starting backend

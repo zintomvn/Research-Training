@@ -1,0 +1,145 @@
+_wandb:
+    value:
+        cli_version: 0.27.2
+        code_path: source-mnist-wandb-evaluation-v1-d__University_Projects_Individual_projects_Research-training_notebooks_WandB_2_evaluation.ipynb
+        e:
+            0mcuwrhm4oni8j7ao67j9t89w68iwjn6:
+                codePath: d:\University\Projects\Individual projects\Research-training\notebooks\WandB\2_evaluation.ipynb
+                codePathLocal: 2_evaluation.ipynb
+                cpu_count: 14
+                cpu_count_logical: 20
+                cudaVersion: "12.6"
+                disk:
+                    /:
+                        total: "85214621696"
+                        used: "74232676352"
+                email: zintom69@gmail.com
+                executable: c:\python314\python.exe
+                git:
+                    commit: 161b25e39825842555eb1c1199aa34e9fddcf2b0
+                    remote: https://github.com/zintomvn/Research-training.git
+                gpu: NVIDIA GeForce RTX 4060 Laptop GPU
+                gpu_count: 1
+                gpu_nvidia:
+                    - architecture: Ada
+                      cudaCores: 3072
+                      memoryTotal: "8585740288"
+                      name: NVIDIA GeForce RTX 4060 Laptop GPU
+                      uuid: GPU-99935140-0e21-e324-aa44-a0bd2098ec42
+                host: MARIO
+                memory:
+                    total: "16961822720"
+                os: Windows-11-10.0.26200-SP0
+                program: d:\University\Projects\Individual projects\Research-training\notebooks\WandB\2_evaluation.ipynb
+                python: CPython 3.14.5
+                root: d:\University\Projects\Individual projects\Research-training\notebooks\WandB
+                startedAt: "2026-06-12T07:36:54.231349Z"
+                writerId: 0mcuwrhm4oni8j7ao67j9t89w68iwjn6
+        m:
+            - "1": batch_step
+              "6":
+                - 3
+              "7": []
+            - "1": epoch
+              "6":
+                - 3
+              "7": []
+            - "2": batch/*
+              "5": 1
+              "6":
+                - 1
+              "7": []
+            - "2": train/*
+              "5": 2
+              "6":
+                - 1
+              "7": []
+            - "2": eval/*
+              "5": 2
+              "6":
+                - 1
+              "7": []
+        python_version: 3.14.5
+        t:
+            "1":
+                - 1
+                - 41
+                - 105
+            "2":
+                - 1
+                - 41
+                - 105
+            "3":
+                - 1
+                - 2
+                - 7
+                - 14
+                - 16
+                - 17
+                - 62
+            "4": 3.14.5
+            "5": 0.27.2
+            "8":
+                - 1
+                - 3
+            "12": 0.27.2
+            "13": windows-amd64
+        visualize:
+            eval/confusion_matrix:
+                panel_config:
+                    fieldSettings:
+                        Actual: Actual
+                        Predicted: Predicted
+                        nPredictions: nPredictions
+                    panelDefId: wandb/confusion_matrix/v1
+                    stringSettings:
+                        title: Confusion Matrix Curve
+                    transform:
+                        name: tableWithLeafColNames
+                    userQuery:
+                        queryFields:
+                            - args:
+                                - name: runSets
+                                  value: ${runSets}
+                              fields:
+                                - fields: []
+                                  name: id
+                                - fields: []
+                                  name: name
+                                - fields: []
+                                  name: _defaultColorIndex
+                                - args:
+                                    - name: tableKey
+                                      value: eval/confusion_matrix_table
+                                  fields: []
+                                  name: summaryTable
+                              name: runSets
+                panel_type: Vega2
+batch_size:
+    value: 256
+dataset:
+    value: MNIST
+dropout:
+    value: 0
+epochs:
+    value: 3
+learning_rate:
+    value: 0.001
+log_every_n_batches:
+    value: 50
+model_name:
+    value: mlp_small
+momentum:
+    value: 0
+num_workers:
+    value: 0
+optimizer:
+    value: adam
+seed:
+    value: 123
+test_subset:
+    value: 2000
+train_subset:
+    value: 12000
+weight_decay:
+    value: 1e-05
