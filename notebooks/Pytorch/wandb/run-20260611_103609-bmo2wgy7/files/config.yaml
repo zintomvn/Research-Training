@@ -1,0 +1,91 @@
+_wandb:
+    value:
+        cli_version: 0.27.2
+        e:
+            7pdc7rl11nlsn0ggcy6rvk1dprc4wxmx:
+                codePath: d:\University\Projects\Individual projects\Research-training\notebooks\Pytorch\1_quickstart_wandb.ipynb
+                codePathLocal: 1_quickstart_wandb.ipynb
+                cpu_count: 14
+                cpu_count_logical: 20
+                cudaVersion: "12.6"
+                disk:
+                    /:
+                        total: "85214621696"
+                        used: "73527169024"
+                email: anhduckg02@gmail.com
+                executable: c:\python314\python.exe
+                git:
+                    commit: f8ebdcee8faafb09a270e586191cee27352b962a
+                    remote: https://github.com/zintomvn/Research-training.git
+                gpu: NVIDIA GeForce RTX 4060 Laptop GPU
+                gpu_count: 1
+                gpu_nvidia:
+                    - architecture: Ada
+                      cudaCores: 3072
+                      memoryTotal: "8585740288"
+                      name: NVIDIA GeForce RTX 4060 Laptop GPU
+                      uuid: GPU-99935140-0e21-e324-aa44-a0bd2098ec42
+                host: MARIO
+                memory:
+                    total: "16961822720"
+                os: Windows-11-10.0.26200-SP0
+                program: d:\University\Projects\Individual projects\Research-training\notebooks\Pytorch\1_quickstart_wandb.ipynb
+                python: CPython 3.14.5
+                root: d:\University\Projects\Individual projects\Research-training\notebooks\Pytorch
+                startedAt: "2026-06-11T03:36:09.578116Z"
+                writerId: 7pdc7rl11nlsn0ggcy6rvk1dprc4wxmx
+        m:
+            - "1": trainer/global_step
+              "6":
+                - 3
+              "7": []
+            - "1": epoch
+              "6":
+                - 3
+              "7": []
+            - "2": train/*
+              "5": 1
+              "6":
+                - 1
+              "7": []
+            - "2": test/*
+              "5": 2
+              "6":
+                - 1
+              "7": []
+        python_version: 3.14.5
+        t:
+            "1":
+                - 1
+                - 41
+                - 105
+            "2":
+                - 1
+                - 41
+                - 105
+            "3":
+                - 2
+                - 7
+                - 13
+                - 16
+            "4": 3.14.5
+            "5": 0.27.2
+            "8":
+                - 1
+                - 3
+            "12": 0.27.2
+            "13": windows-amd64
+architecture:
+    value: NeuralNetwork
+batch_size:
+    value: 64
+dataset:
+    value: FashionMNIST
+epochs:
+    value: 5
+learning_rate:
+    value: 0.001
+optimizer:
+    value: SGD
+seed:
+    value: 42
