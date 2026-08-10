@@ -1,3 +1,4 @@
+# Steps by step solution to problem solving
 Step 1: Read and Restate the Problem
 
 Step 2: Think of the simple solution
@@ -18,3 +19,16 @@ Step 7: Close the Solution and Reimplement It
 - State the time and space complexity.
 - Solve the problem again several days later.
 
+# Array / String
+
+# Two pointers
+Two pointers is an algorithm technique where you use two indices/pointers to traverse an array, string, or linked list.
+1. Opposite directions
+- Palindrome
+- Two Sum II
+- Container With Most Water
+- Reverse array
+2. Same direction
+3. Fast and slow pointers
+- Detecting cycles
+- Finding the middle of a linked list
