@@ -52,3 +52,11 @@ def uniqueOccurrences(self, arr: list[int]) -> bool:
         if num != 1:
             return False
     return True
+
+# Better solution - set
+def uniqueOccurrences(self, arr: list[int]) -> bool:
+    freq = {}
+    for x in arr:
+        freq[x] = freq.get(x, 0) + 1
+
+    return len(freq) == len(set(freq.values()))
